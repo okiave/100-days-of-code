@@ -16,15 +16,17 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 1. Vim 
 
-...Is neat and I'm happy I got to learn a few more things about it like the SHIFT zz to save and close after exiting insert mode with ESC. Really though linear structure for to navigate typing is not gonna fly for future logging. Time for Coda.
+    Is neat and I'm happy I got to learn a few more things about it like the SHIFT zz to save and close after exiting insert mode with ESC. Really though linear structure for to navigate typing is not gonna fly for future logging. Time for Coda.
 
 2. Git/Terminal
  
-...rm deletes file and rmdir deletes directory. If needing to remove directory with contents must use recursive flag -r.
-
+   rm deletes file and rmdir deletes directory. If needing to remove directory with contents must use recursive flag -r. Re-learned that one must "git add" the file one intends to push before push.   
+   
+     
 3. Markdown - Must look pretty
 
-...After pushing my first commit i found the format of log needing love with some indentation and lists.
+   After pushing my first commit i found the format of log needing love with some indentation and lists.  
+   
 
 **__Tweaks__**:
 
@@ -32,7 +34,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 * I've also just turned off notifications for insta and will leave phone across room to charge while in session with this.
 
-* Gonna implement 30 sec of belly breathing when i feel my brain tipping toward ADHD. Prolly have to do some jumpin jacks here and there too.
+* Gonna implement 30 sec of belly breathing when i feel my brain tipping toward ADHD. Prolly have to do some jumping jacks here and there too.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+---
 
