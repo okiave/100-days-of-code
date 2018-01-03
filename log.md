@@ -36,6 +36,9 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 * Gonna implement 30 sec of belly breathing when i feel my brain tipping toward ADHD. Prolly have to do some jumping jacks here and there too.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 54993e7717a875b4c0432d2eff9b8ed9d3ffc52c
 
 ---
 
@@ -62,6 +65,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 **__Tweaks__**:
 
+<<<<<<< HEAD
 * Continue trouble shooting Xcode and MongoDb tomorrow in order to complete learnmymongodb challenge.
 
 * Define programing terminology: array and conditional statements
@@ -69,6 +73,11 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * Must pickup house to find rose colored welding glasses for these late night screen sessions.
 =======
 >>>>>>> 526747fe6ad61fc599671787e3f8c455a94b27d1
+=======
+* Xcode and MongoDb are still gonna need troubleshooting for tomorrow
+
+* Define programing terminology: array and conditional statements
+>>>>>>> 54993e7717a875b4c0432d2eff9b8ed9d3ffc52c
 
 ---
 
