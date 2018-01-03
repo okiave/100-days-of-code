@@ -46,7 +46,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 **__Progress__**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
 
-**__Reflections__**: Ok so today, my son Rio was sick. Yesterday it was my daughter. None the less when he napped in the car I took the time to get the review css/html challenges of FCC. This was fun bc the dopamine high i was on of knowing how to navigate those basics. Now that I'm at the node.js part of the challenge the first hurdle will be trouble shooting the local version of learning mongodb interacts with js.
+**__Reflections__**: Ok so today, my son Rio was sick. Yesterday it was my daughter. NTL when he napped in the car I took the time to  review css/html challenges of FCC. This was fun bc the dopamine high i was on of knowing how to navigate those basics. Now that I'm at the node.js challenge the first hurdle will be getting a local version of learnmymongodb up and running. I may also just opt to do a docker image with all the goodies.
 
 **__Learned__**: 
 
@@ -56,28 +56,23 @@ Updated and set intention for log via vim all the while utilizing what I've lear
     
 2. AWS/cloud9/Brew
  
-   I'm quasi familiar with AWS. Been using mostly the bucket aspect of AWS for years as remote storage as backup for media. Today though I got to deploy my first instance and it was simple enough except for that I'm not familiar with how to trouble shoot Amazon's flavor of Linux. It seems they use yum as package manager. I switched over to Brew locally and it turns out macOS High Sierra did away with the necessary dependencies in order to run mongodb so I'm now patiently waiting for it to finish.
+   I'm quasi familiar with AWS. Mostly the bucket aspect of AWS for years as additional remote storage for media. Today though I got to deploy my first instance and it was simple enough except for that I'm not familiar with how to navigate Amazon's flavor of Linux. It seems they use yum as package manager. I switched over to Brew locally and it turns out macOS High Sierra did away with the necessary dependencies in order to run mongodb so I'm now patiently waiting for all of xcode to install.
        
 3. Mongodb - 
 
-   Having troubleshooted some aspects of Wordpress, I was already familiar with the how a relational database organizes its contents. Watching this tutorial on mongodb blew my mind bc it connected the dots for me on how a app could scale dynamically based on demand. It was neat to see I could make sense of the JSON formatting thanks to my adventures in #maptime geoJSON data.
+   Having troubleshooted some aspects of Wordpress, I was already familiar with the how a relational database organizes its contents. Watching a tutorial on mongodb blew my mind bc it connected the dots for how an app could scale dynamically based on demand. It was cool to see I could make sense of the JSON formatting thanks to my adventures in #maptime geoJSON data.
    
 
 **__Tweaks__**:
 
-<<<<<<< HEAD
 * Continue trouble shooting Xcode and MongoDb tomorrow in order to complete learnmymongodb challenge.
 
 * Define programing terminology: array and conditional statements
 
-* Must pickup house to find rose colored welding glasses for these late night screen sessions.
-=======
->>>>>>> 526747fe6ad61fc599671787e3f8c455a94b27d1
-=======
-* Xcode and MongoDb are still gonna need troubleshooting for tomorrow
+* Finish Xcode and MongoDb install tomorrow.
 
-* Define programing terminology: array and conditional statements
->>>>>>> 54993e7717a875b4c0432d2eff9b8ed9d3ffc52c
+* bring git repo back into sync with local.
 
+* clean up house to find my welding glasses for these late night screen sessions.
 ---
 
