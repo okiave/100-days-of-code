@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: Last half of Dec 2017
-**__Reflections__**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon off hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
+**__Reflections__**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon from hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
 
 **Disclaimer**: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. Day 1 of 100days starts on 1st day of 2018. All hours are in AKST (Alaska!!)
  
@@ -35,6 +35,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * I've also just turned off notifications for insta and will leave phone across room to charge while in session with this.
 
 * Gonna implement 30 sec of belly breathing when i feel my brain tipping toward ADHD. Prolly have to do some jumping jacks here and there too.
+<<<<<<< HEAD
 
 ---
 
@@ -66,6 +67,8 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * Define programing terminology: array and conditional statements
 
 * Must pickup house to find rose colored welding glasses for these late night screen sessions.
+=======
+>>>>>>> 526747fe6ad61fc599671787e3f8c455a94b27d1
 
 ---
 
