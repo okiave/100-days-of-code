@@ -9,18 +9,39 @@
 #wrapper {
 	width: auto;
 	border: aqua 2px solid;
+	padding: 15px 15px;
+}
+
+.proclamation {
+	font-family: sans-serif;
+	color: fuchsia;
 }
 
 			
+.thoughts {
+	font-family: sans-serif;
+}
 			
-		</style>	  
+		</style>	
+<script>
+		$(document).ready(function()) {
+			$(".proclamation").click(function() {
+				$(this).hide();
+			}
+		}
+</script>
+
 	</head>
 		<body id="main">
 			<div id="wrapper">
 				<div class="goodies">
-					<h1 class="proclamation">Why I love jquery</h1>
+					<h2 class="proclamation">Why I love jquery</h2>
 					<p class="thoughts">TIL that jQuery is a library that is built upon js. It simplifies and makes for less verbose code. I took a gander at <a href="https://api.jquery.com/category/selectors/" target=_blank>this page</a>; and I see there are a number of selectors that can be used to interact with elements on page.</p><br>
 			
-			<h1 class="proclamation">DOM as an API</h1>
-			<p class="thoughts">The document object model is the element structure of an HTML document that breaks down the parent and children relationships to the elements within the html page. is a a href="https://api.jquery.com/category/selectors/" target=_blank>this page</a>; and I see there are a number of selectors that can be used to interact with elements on page.</p><br>
+			<h2 class="proclamation">DOM as an API</h2>
+			<p class="thoughts">The document object model is the element structure of an HTML document that breaks down the parent and children relationships to the elements within the html page. The neat thing about the console in the browser and DOM is you can interact with specific elements on the page using javascript. In this manner, it behaves like an api by receiving requests from console commands and returns results.</p>
+			</div>
+		</div>
+	</body>
+</hmtl>
 			
