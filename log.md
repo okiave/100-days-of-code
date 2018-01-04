@@ -35,10 +35,6 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * I've also just turned off notifications for insta and will leave phone across room to charge while in session with this.
 
 * Gonna implement 30 sec of belly breathing when i feel my brain tipping toward ADHD. Prolly have to do some jumping jacks here and there too.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 54993e7717a875b4c0432d2eff9b8ed9d3ffc52c
 
 ---
 
@@ -75,4 +71,38 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 * clean up house to find my welding glasses for these late night screen sessions.
 ---
+
+### Day 3: Enero 3, Wednesday
+
+**__Progress__**: Mongodb running in AWS cloud9 and Git repo back in sync 
+
+**__Reflections__**: Last night's late tweet on needing help bc he FCC tutorial no longer reflected changes made by AWS buyout was key. A long time twitter amigo [@knapkjack](https://twitter.com/knapjack/status/948572871156154368) found a git repo with directions to get rolling.  The video i watched last night while xcode downloaded gave me enough of a frame work that the the first two challenges of installing and verifying mongodb. Now that I've completed the first two exercises of leanrmymongo I can tell the new wall has to do with understanding the js syntax.
+
+
+**__Learned__**: 
+
+1. AWS/c9
+
+    How to create a user for the IDE environment on c9 through AWS and install mongodb. Starting and stopping it as a service made sense bc I already new MYSQL and Apache also operated as services on a server. Also got to make a file in vim from scratch and how to name and save it.
+
+* [Getting started with cloud9 on Amazon Web Services](https://github.com/nax3t/aws-cloud9-instructions/blob/master/README.md)    
+* [Tutorial on Vim commands](http://vim.wikia.com/wiki/Tutorial)    
+    
+2. Git
+ 
+   My git repo got out of sync and I found this youtube vid that explained the mechanics of what goes on when repos are out of sync.
+ *[Merging remote changes explained](https://www.youtube.com/watch?v=k6pxsaXAhbI)
+       
+   
+
+**__Tweaks__**:
+
+* Define programing terminology: array and conditional statements
+
+* Source a tutorial for understanding JS syntax
+
+* clean up house to find my welding glasses for late night screen sessions.
+---
+
+
 
