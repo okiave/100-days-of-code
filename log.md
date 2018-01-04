@@ -91,7 +91,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 2. Git
  
    My git repo got out of sync and I found this youtube vid that explained the mechanics of what goes on when repos are out of sync.
- *[Merging remote changes explained](https://www.youtube.com/watch?v=k6pxsaXAhbI)
+ * [Merging remote changes explained](https://www.youtube.com/watch?v=k6pxsaXAhbI)
        
    
 
