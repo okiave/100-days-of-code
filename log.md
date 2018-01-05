@@ -105,4 +105,35 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 ---
 
 
+### Day 4: Enero 4, Thursday
+
+**__Progress__**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
+
+**__Reflections__**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
+
+
+**__Learned__**: 
+
+1. DOM
+
+    The document object model is the element structure of an HTML document that breaks down the parent and children relationships to the elements within the html page. The neat thing about the console in the browser and DOM is you can interact with specific elements on the page using javascript. In this manner, it behaves like an api by receiving requests from console commands and returns results.
+    
+    
+2. jQuery & Javascript
+ 
+   My git repo got out of sync and I found this youtube vid that explained the mechanics of what goes on when repos are out of sync.
+ * [Yourtube playlist to JS and jquery ](https://www.youtube.com/playlist?list=PLmayTjecwZXNigR19fK6xt51y8VBn-6Cw)
+   
+
+**__Tweaks__**:
+
+* Continue to learn about computer science aspects of arrays, conditionals, and events.
+
+* Continue with learnyoumongodb on cloud9.
+
+* learn how jekyll works to publish log there.
+
+---
+
+
 
