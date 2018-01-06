@@ -136,7 +136,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 ---
 
 
-### Day 5: Enero 5, Thursday
+### Day 5: Enero 5, Friday
 
 **__Progress__**: Tweaked my github pages repo. 
 
