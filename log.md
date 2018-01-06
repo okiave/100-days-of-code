@@ -136,4 +136,26 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 ---
 
 
+### Day 5: Enero 5, Thursday
+
+**__Progress__**: Tweaked my github pages repo. 
+
+**__Reflections__**: A week of with little exercise and major project management make for barriers to learning. The experiment to learn under stress is only manageable if I have a method for expressing the pent up energy. Looks like swimming, running, and roller skating are back in. My body needs that anaerobic hit of goodness at least three times a week.
+
+
+**__Learned__**: 
+
+1. Meltown/Spectre
+
+    My recent learnings on arrays and their use of memory blocks brought enough insight that I could follow a rough understanding about how the current architecture/operations of modern CPUs can be used to access memory stored on CPU. 
+    
+
+**__Tweaks__**:
+
+* More exercise, less coping behaviors  
+
+* Continue with learnyoumongodb on cloud9.
+
+---
+
 
