@@ -158,4 +158,47 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 
 ---
 
+### Day 6: Enero 6, Saturday
 
+**__Progress__**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
+
+**__Reflections__**: Some how I managed to skip to the Mongodb tutorial before I had even got into the JQuery challenges. I think this happened that day I did my 90min of code between errands in the car on an ipad while my sick Rio napped. In other news bootstrap is amazing! Back when I was self-learning css there was no such thing as responsive design and a lot of the pretty fancy things had to be done with background image placements and detailed grid positions. So glad that framework came to be.
+
+
+**__Learned__**: 
+
+1. Bootstrap
+
+    Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
+    
+
+**__Tweaks__**:
+
+* Must clean up computer. Performance is too laggy.  
+
+
+---
+
+### Day 7: Enero 7, Sunday
+
+**__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
+
+**__Reflections__**: A lot of what astonishes me about the web is how much seems to get abstracted. To think that I will first be learning JQuery before js makes me consider whether this will hinder my future ability. I tend to lean on the side of knowing the origin of things in order to make sense of the present. Clearly I'm free to educate myself deeper than the challenges from FCC. Also got a new local buddy joining me on the FCC 
+
+
+**__Learned__**: 
+
+1. Bootstrap
+
+    Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
+    
+
+**__Tweaks__**:
+
+* Moving to standing desk for code. I can feel my posture caving.  
+
+
+---
+
+
+	
