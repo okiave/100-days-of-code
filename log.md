@@ -105,4 +105,120 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 ---
 
 
+### Day 4: Enero 4, Thursday
 
+**__Progress__**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
+
+**__Reflections__**: Woke up feeling sick. It seems I picked up the stomach bug kiddos had. I plowed through my business todos and was ready to start learning by 830AM. My brain  is definitely better equipped to learn in the AM. Also found my coding glasses.
+
+
+**__Learned__**: 
+
+1. DOM
+
+    The document object model is the element structure of an HTML document that breaks down the parent and children relationships to the elements within the html page. The neat thing about the console in the browser and DOM is you can interact with specific elements on the page using javascript. In this manner, it behaves like an api by receiving requests from console commands and returns results.
+    
+    
+2. jQuery & Javascript
+ 
+   My git repo got out of sync and I found this youtube vid that explained the mechanics of what goes on when repos are out of sync.
+ * [Yourtube playlist to JS and jquery ](https://www.youtube.com/playlist?list=PLmayTjecwZXNigR19fK6xt51y8VBn-6Cw)
+   
+
+**__Tweaks__**:
+
+* Continue to learn about computer science aspects of arrays, conditionals, and events.
+
+* Continue with learnyoumongodb on cloud9.
+
+* learn how jekyll works to publish log there.
+
+---
+
+
+### Day 5: Enero 5, Friday
+
+**__Progress__**: Tweaked my github pages repo. 
+
+**__Reflections__**: A week of with little exercise and major project management make for barriers to learning. The experiment to learn under stress is only manageable if I have a method for expressing the pent up energy. Looks like swimming, running, and roller skating are back in. My body needs that anaerobic hit of goodness at least three times a week.
+
+
+**__Learned__**: 
+
+1. Meltown/Spectre
+
+    My recent learnings on arrays and their use of memory blocks brought enough insight that I could follow a rough understanding about how the current architecture/operations of modern CPUs can be used to access memory stored on CPU. 
+    
+
+**__Tweaks__**:
+
+* More exercise, less coping behaviors  
+
+* Continue with learnyoumongodb on cloud9.
+
+---
+
+### Day 6: Enero 6, Saturday
+
+**__Progress__**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
+
+**__Reflections__**: Some how I managed to skip to the Mongodb tutorial before I had even got into the JQuery challenges. I think this happened that day I did my 90min of code between errands in the car on an ipad while my sick Rio napped. In other news bootstrap is amazing! Back when I was self-learning css there was no such thing as responsive design and a lot of the pretty fancy things had to be done with background image placements and detailed grid positions. So glad that framework came to be.
+
+
+**__Learned__**: 
+
+1. Bootstrap
+
+    Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
+    
+
+**__Tweaks__**:
+
+* Must clean up computer. Performance is too laggy.  
+
+
+---
+
+### Day 7: Enero 7, Sunday
+
+**__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
+
+**__Reflections__**: A lot of what astonishes me about the web is how much seems to get abstracted. To think that I will first be learning JQuery before js makes me consider whether this will hinder my future ability. I tend to lean on the side of knowing the origin of things in order to make sense of the present. Clearly I'm free to educate myself deeper than the challenges from FCC. Also got a new local buddy joining me on the FCC 
+
+
+**__Learned__**: 
+
+1. Bootstrap
+
+    Is a CSS a framework that takes the math out of designing a responsive grid bc of it's built in classes. It uses a 12-column wide design that can be divided by thirds, quarters, halves. It's also got a ton of basic classes for making various elements pretty and gives you the ability to use font awesome easily. Now I'm curious to play with it on Kirbycms.
+    
+
+**__Tweaks__**:
+
+* Moving to standing desk for code. I can feel my posture caving.  
+
+
+---
+
+### Day 8: Enero 8, Monday
+
+**__Progress__**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
+
+**__Reflections__**: Early morning are absolutely the zone for me to learn. My mind is crisp and by reading out loud I grasp what's happening. I've noticed I can have a tendency to miss small details like capital letters mid selection or function which greatly affect the result. Also moving to standing desk for seshes keeps me way more attentive to how my body feels and that in turn proves to keep me more alert for learning.
+
+**__Learned__**: 
+
+1. $("document").ready(function()) {} );
+
+    The $ at the start of the statement can be read as bling. Additional statements are put between the curly brackets {} and end with a semi-colon. Its also possible to combine multiple selectors together.
+    
+
+**__Tweaks__**:
+
+* Gonna give these logs their due diligence so i can practice regurgitating more of what i learned.
+
+
+---
+
+
+	
