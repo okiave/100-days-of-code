@@ -221,7 +221,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
  
-###:full_moon_with_face: Day 1: Enero 1, Monday:full_moon_with_face:
+### :full_moon_with_face: Day 1: Enero 1, Monday:full_moon_with_face:
 
 **__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
