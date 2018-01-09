@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-:zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. Day 1 of 100days starts on 1st day of 2018. All hours are in AKST (Alaska!!)
+:zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. Day 1 of 100days starts on 1st day of 2018. All hours are in AKST (Alaska!!) Also I use moon emojis :new_moon_with_face::first_quarter_moon_with_face::full_moon_with_face::last_quarter_moon_with_face: to track my energy on this journey. A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories/#/south-of-here-1/)nomadically on a bike. Being the scientist that she logged our progress and found a correlation between our endurance and distances as they related to the phases of the moon. Since then I've tested some of what we learned and am a firm believer that the gravitational pull exerted on earth by the moon can used as a sort of leverage for productivity/progress. 
 
 ---
 
@@ -50,7 +50,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-:last_quarter_moon:### Day 7: Enero 7, Sunday:last_quarter_moon:
+### :last_quarter_moon:Day 7: Enero 7, Sunday:last_quarter_moon:
 
 **__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
@@ -217,7 +217,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
  
-:full_moon_with_face:### Day 1: Enero 1, Monday:full_moon_with_face:
+###:full_moon_with_face: Day 1: Enero 1, Monday:full_moon_with_face:
 
 **__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
