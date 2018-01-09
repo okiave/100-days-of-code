@@ -1,30 +1,32 @@
 # 100 Days Of Code - Log
 
 
-**Disclaimer**: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. Day 1 of 100days starts on 1st day of 2018. All hours are in AKST (Alaska!!)
+:zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. Day 1 of 100days starts on 1st day of 2018. All hours are in AKST (Alaska!!)
 
 
-### Day 9: Enero 9, Monday
+### Day 9: Enero 9, Tuesday
 
-**__Progress__**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
+**__Progress__**: After completing the last three challenges of JQuery I'm starting my first project which is to build a tribute page using codepen on Alistair Cockburn.
 
-**__Reflections__**: Early morning are absolutely the zone for me to learn. My mind is crisp and by reading out loud I grasp what's happening. I've noticed I can have a tendency to miss small details like capital letters mid selection or function which greatly affect the result. Also moving to standing desk for seshes keeps me way more attentive to how my body feels and that in turn proves to keep me more alert for learning.
+**__Reflections__**: The prompt for the project used the term "*user stories*" that linked to wiki entry that referenced a man by the name of Alistair Cockburn who created Agile model for developing software. This immediately was my sign from the universe to make the tribute page about him because now I get to research the methodology and its origins. I'm also interested to better understand user stories. My decision to pivot toward dev skills is that I've found the life of a photographer too isolating when it comes to most projects. I really enjoy working on teams and see code as the context to get deeper into that world.
 
 **__Learned__**: 
 
-1. $("document").ready(function()) {} );
+1. CSS Borders please
 
-    The $ at the start of the statement can be read as bling. Additional statements are put between the curly brackets {} and end with a semi-colon. Its also possible to combine multiple selectors together.
+    This isn't new to me, however it was the first time I used it to understand makeup of a page with regards to visible elements and none visible elements. That in turn makes me see how laying out the initial [blocks stack up](https://farm5.staticflickr.com/4628/38703743245_46f5d7fb1d_b.jpg) with CSS in place.
     
 
+2. Data in Javascript
+
+	One of the CS concepts I'm still wrapping my head around is how data is stored and passed on down the line. IDK how i found this but this [screencast video](https://scrimba.com/p/pRB9Hw/cN9EWSw) of a dad explaining to his son gave me a greater vocabulary. Now I know that arrays can be objects and be called in and that the values of labels can also be used.
+When the dad was teaching his son about POJOs (Plain 'ol javascript object) also reminded me of pollo :chicken: and pollito :baby_chick:.
 **__Tweaks__**:
 
 * Gonna give these logs their due diligence so i can practice regurgitating more of what i learned.
 
 
-![Screenshot of using chrome dev tools to find divs using borders]
-(https://farm5.staticflickr.com/4628/38703743245_46f5d7fb1d_b.jpg)
-
+---
 
 ### Day 8: Enero 8, Monday
 
