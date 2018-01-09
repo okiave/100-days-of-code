@@ -221,4 +221,26 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 ---
 
 
+
+### Day 9: Enero 9, Monday
+
+**__Progress__**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
+
+**__Reflections__**: Early morning are absolutely the zone for me to learn. My mind is crisp and by reading out loud I grasp what's happening. I've noticed I can have a tendency to miss small details like capital letters mid selection or function which greatly affect the result. Also moving to standing desk for seshes keeps me way more attentive to how my body feels and that in turn proves to keep me more alert for learning.
+
+**__Learned__**: 
+
+1. $("document").ready(function()) {} );
+
+    The $ at the start of the statement can be read as bling. Additional statements are put between the curly brackets {} and end with a semi-colon. Its also possible to combine multiple selectors together.
+    
+
+**__Tweaks__**:
+
+* Gonna give these logs their due diligence so i can practice regurgitating more of what i learned.
+
+
+
+(https://farm5.staticflickr.com/4628/38703743245_46f5d7fb1d_b.jpg)
+
 	
