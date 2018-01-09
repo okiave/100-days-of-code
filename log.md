@@ -240,7 +240,7 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * Gonna give these logs their due diligence so i can practice regurgitating more of what i learned.
 
 
-
+![Screenshot of using chrome dev tools to find divs using borders]
 (https://farm5.staticflickr.com/4628/38703743245_46f5d7fb1d_b.jpg)
 
 	
