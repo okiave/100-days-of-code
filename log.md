@@ -3,10 +3,11 @@
 
 :zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. Day 1 of 100days starts on 1st day of 2018. All hours are in AKST (Alaska!!)
 
+---
 
 ### Day 9: Enero 9, Tuesday
 
-**__Progress__**: After completing the last three challenges of JQuery I'm starting my first project which is to build a tribute page using codepen on Alistair Cockburn.
+**__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
 
 **__Reflections__**: The prompt for the project used the term "*user stories*" that linked to wiki entry that referenced a man by the name of Alistair Cockburn who created Agile model for developing software. This immediately was my sign from the universe to make the tribute page about him because now I get to research the methodology and its origins. I'm also interested to better understand user stories. My decision to pivot toward dev skills is that I've found the life of a photographer too isolating when it comes to most projects. I really enjoy working on teams and see code as the context to get deeper into that world.
 
@@ -49,7 +50,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 7: Enero 7, Sunday
+:last_quarter_moon:### Day 7: Enero 7, Sunday:last_quarter_moon:
 
 **__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
@@ -216,7 +217,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
  
-### Day 1: Enero 1, Monday
+:full_moon_with_face:### Day 1: Enero 1, Monday:full_moon_with_face:
 
 **__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
