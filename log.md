@@ -9,6 +9,33 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
+### Day 12: Enero 12, Tuesday
+
+**__Progress__**: Started hand coding the main parts of a parallax tribute page for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
+
+**__Reflections__**: This is not easy. I feel like my current skill level and sense of aesthetic have a massive gap. I'm proud that I'm choosing not to copy/past this tribute page from another template. I really do want to understand how the bootstrap build upon each other. I've also gotta figure out my game plan for weekly goals on this #100daysofcodejourey. I can't run a household and make this my full-time because who else is gonna bring in the revenue for next month? Freelancing dadlife sucks but its the reality I'm embracing. My disappointment with how little progress I've made this week has to do with forgetting I can be over the top with ambition and drive. 
+
+**__Learned__**: 
+
+1. bootstrap dependecies
+
+    After researching a number of approaches to parallax, I've settled on working with the core [codebase of bootstrap](https://github.com/okiave/bootstrap) and have since cloned it to my local machine for future use. As small as this sounds I can't explain how much more efficient is to now just pull new updates for the framework.  
+    
+2. addressing all users of parallax
+
+	As I explored the web for various projects in parallax it was cool to fine [this one](http://pixelcog.github.io/parallax.js/) that was comprehensive and documented with info on how to address devices that won't render the effect.      
+    
+    
+**__Tweaks__**:
+
+* Must get more than 5 hours of sleep. I feel drunk running on anything less than that.
+
+* Generating leads for revenue must be a priority.
+
+* Simple yummy meal planning for next week.
+
+---
+
 ### Day 9: Enero 9, Tuesday
 
 **__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
