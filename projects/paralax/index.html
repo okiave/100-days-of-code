@@ -21,7 +21,7 @@
     .window-wrapper {
       height: 400px;
       background: #fff;
-      background-image: linear-gradient(90deg, #4F364C, #FFFFFF);
+      /** background-image: linear-gradient(90deg, #4F364C, #FFFFFF); **/
     }
 
     </style>
@@ -34,16 +34,32 @@
     <![endif]-->
   </head>
   <body>
-    <div class="window-wrapper text-center">
-     <!--  <img src="image1.jpg"> -->
-    <blockquote>
+  <div class="container">  
+     <div class="row">
+        <div class="col-xs-12"> 
+        <!-- HEADER -->  
+        <h1 style ="margin-top:40px;" class="text-center">Alistair Cockburn</h1>
+        <h2 style ="margin-bottom:40px;" class="text-center"><em>Thought leader and creater of Agile development</em></h2>
+
+        <!-- HERO IMAGE -->
+
+        <div class="thumbnail" style="background-color: #DDF0FF; padding: 15px 15px;"><img alt="Alistair Cockburn standing with left arm up in the air pointing with index finger and grinning." class="img-responsive" src="https://farm5.staticflickr.com/4287/34759083933_075fede384_b.jpg">
+          <div class="caption text-center">Alistair Cockburn speaking on the Hexagonal Architecture at a meetup in Paris, France on June 20, 2017. <i><small style="margin-left: 25px;">Photo credit: <a target = _blank href = "https://www.flickr.com/photos/97931039@N02/34759083933/in/photolist-UXxoEz-TSiP7C-oYyzC-6SQMkw-6F2Gmr-h3DadG-7f7Dnh-6SLJED-9wS5dG-3Pudmr-bvt1iq-7f3Lgt-6SLJHV-2HTdmB-yyx6b-7f3L6Z-7f3Lyr-7f3KPx-7f3KJ2-7f3KDM-q4mMH-7f7CNS-7f3Lwp-6jEWyi-7f7Djs-dBFCqo-7f7CU5-7f3Lnz-7f3KC2-7f7D3Y-7f3LBx-7f7DqS-7f3L2i-7f3Lr2-7f7CY1-7f3KZD-7f3LtD-7f3L8T-7f3KXR-7v3Q6Z-7f7DLL-7f7DsN-7f3Kxp-5qVREu-pwEiT-7f3Lpn-7f7CHy-bJvwde-7f7D1u-7f7Dhd">Arolla Arolla</small></a></i> 
+</div></div>
+<!-- SECTION 2 -->
+<div style="background-image: linear-gradient(180deg, #DDF0FF, #FFFFFF);" class="window-wrapper"><h2 style ="margin-bottom:40px;" class="text-center"><div class="row"> 
+    <div style="margin-left: 20%; margin-top: 70px;" class="col-xs-12">
+      <div class="text-center"><h3>Section3</h3>     
+<blockquote class="text-center" cite="http://www.azquotes.com/quote/1339158">
             <p>"We get things wrong before we get things right."</p>
             <footer><cite>Alister Cockburn</cite></footer>
-          </blockquote>
-    <div class="parallax-window" data-parallax="scroll" data-image-src="image2.jpg"></div><div class="window-wrapper"><h2 style ="margin-bottom:40px;" class="text-center"><em>Started the agile movement in software development</em></h2></div></div>
-    <div class="parallax-window" data-parallax="scroll" data-image-src="image3.jpg"></div><div class="window-wrapper"></div>
-
-
+</blockquote>     
+      </div>
+  </div>
+</div></div></div>
+    <div class="parallax-window" data-parallax="scroll" data-image-src="image1.jpg">
+<div style="background-image: linear-gradient(180deg, #DDF0FF, #FFFFFF);" class="window-wrapper"></div></div>
+<div class="parallax-window" data-parallax="scroll" data-image-src="image3.jpg"></div><div class="window-wrapper"></div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
@@ -53,7 +69,7 @@
     <script type="text/javascript">
     $('.parallax-window').parallax();
     </script>
-
+  </div>  
   </body>
 </html>
 
