@@ -9,7 +9,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-:new_moon_with_face: ### Day 16: Enero 16, Tuesday :new_moon_with_face:
+### Day 16: Enero 16, Tuesday :new_moon_with_face:
 
 **__Progress__**: Cleaned up indentation and content for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
@@ -29,7 +29,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-:last_quarter_with_face: ### Day 12: Enero 12, Tuesday :last_quarter_with_face:
+### Day 12: Enero 12, Tuesday :last_quarter_moon_with_face:
 
 **__Progress__**: Started hand coding the main parts of a parallax tribute page for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
@@ -56,7 +56,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-:last_quarter_with_face: ### Day 9: Enero 9, Tuesday :last_quarter_with_face:
+### Day 9: Enero 9, Tuesday :last_quarter_moon_with_face:
 
 **__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
 
@@ -199,7 +199,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
 
-### Day 3: Enero 3, Wednesday
+### Day 3: Enero 3, Wednesday :full_moon_with_face:
 
 **__Progress__**: Mongodb running in AWS cloud9 and Git repo back in sync 
 
@@ -232,7 +232,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 2: Enero 2, Tuesday
+### Day 2: Enero 2, Tuesday :full_moon_with_face:
 
 **__Progress__**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
 
@@ -268,7 +268,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
  
-### :full_moon_with_face: Day 1: Enero 1, Monday:full_moon_with_face:
+###Day 1: Enero 1, Monday :full_moon_with_face:
 
 **__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
@@ -300,10 +300,6 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 * Gonna implement 30 sec of belly breathing when i feel my brain tipping toward ADHD. Prolly have to do some jumping jacks here and there too.
 
 ---
-
-
-
-
 
 ### Day 0: Last half of Dec 2017
 **__Reflections__**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon from hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
