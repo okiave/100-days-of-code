@@ -9,6 +9,33 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
+### Day 16: Enero 16, Tuesday
+
+**__Progress__**: Cleaned up indentation and content for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
+
+**__Reflections__**: Over the last two days I've finally begun to see the level of progress that reflects what I've learned from FCC in the first 100 sessions. Mainly the various  bootstrap classes that are available. I can tell that learning to position elements before bootstrap has me tending to want to fix things with inline style tweaks. My goal is to avoid this and truly understand the grid and positioning options of bootstrap.
+
+**__Learned__**: 
+
+1. bootstrap `class="row align-items-center justify-content-center"`
+
+    After researching a number of approaches to parallax, I've settled on working with the core [codebase of bootstrap](https://github.com/okiave/bootstrap) and have since cloned it to my local machine for future use. As small as this sounds I can't explain how much more efficient is to now just pull new updates for the framework.  
+    
+2. addressing all users of parallax
+
+  As I explored the web for various projects in parallax it was cool to fine [this one](http://pixelcog.github.io/parallax.js/) that was comprehensive and documented with info on how to address devices that won't render the effect.      
+    
+    
+**__Tweaks__**:
+
+* Must get more than 5 hours of sleep. I feel drunk running on anything less than that.
+
+* Generating leads for revenue must be a priority.
+
+* Simple yummy meal planning for next week.
+
+---
+
 ### Day 12: Enero 12, Tuesday
 
 **__Progress__**: Started hand coding the main parts of a parallax tribute page for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
