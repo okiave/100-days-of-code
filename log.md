@@ -101,7 +101,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 7: Enero 7, Sunday :last_quarter_moon:
+### Day 7: Enero 7, Sunday 🌜:last_quarter_moon_with_face:
 
 **__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
