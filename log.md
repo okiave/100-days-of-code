@@ -12,11 +12,12 @@
 
 [//]: # ---
 
-:zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. 
+:zap:**Disclaimer**:zap:: I'm using the above format and a mix of spanish/english throughout my log to support my mental state of flow. I use moon emojis to track my energy. Chido. Empezemos. 
 
-Day 1 of 100days started on 1st day of 2018. All hours are in AKST (Alaska!!) I use moon emojis :new_moon_with_face::first_quarter_moon_with_face::full_moon_with_face::last_quarter_moon_with_face: to track my energy on this journey because I'm am a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity/restoration.
+**Day 1/100** started on 1st day of 2018. All hours are in AKST (Alaska!!)
+A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes. She is a scientist so we logged our progress and found our endurance and distance traveled seemed to correlate with the phases of the moon. Since then I've tested what we learned and began exploring the relationship between lunar energy within a framework of mindfulness practices and cognitive behavioral tweaks.  because I'm am a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity/restoration.
 
-A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes. She is a scientist so we logged our progress and found our endurance and distance traveled seemed to correlate with the phases of the moon. Since then I've tested some of what we learned and started exploring a framework of mindfulness practices and cognitive behavioral tweaks to adapt to stress and challenges. 
+**TL;DR**: Tracking moon informs me for how to adapt with stress and challenges on a journey. 
 
 ---
 
