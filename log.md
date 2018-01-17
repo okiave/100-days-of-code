@@ -29,7 +29,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-### Day 12: Enero 12, Tuesday :last_quarter_moon_with_face:
+### Day 12: Enero 12, Tuesday :waning_crescent_moon:  
 
 **__Progress__**: Started hand coding the main parts of a parallax tribute page for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
@@ -80,7 +80,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ---
 
-### Day 8: Enero 8, Monday
+### Day 8: Enero 8, Monday :last_quarter_moon:
 
 **__Progress__**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
 
@@ -101,7 +101,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### :last_quarter_moon:Day 7: Enero 7, Sunday:last_quarter_moon:
+### Day 7: Enero 7, Sunday :last_quarter_moon:
 
 **__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
@@ -123,7 +123,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 6: Enero 6, Saturday
+### Day 6: Enero 6, Saturday :wanning_gibbious_moon:
 
 **__Progress__**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
 
@@ -144,7 +144,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ---
 
-### Day 5: Enero 5, Friday
+### Day 5: Enero 5, Friday :wanning_gibbious_moon:
 
 **__Progress__**: Tweaked my github pages repo. 
 
@@ -167,7 +167,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 4: Enero 4, Thursday
+### Day 4: Enero 4, Thursday :wanning_gibbious_moon:
 
 **__Progress__**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
 
@@ -268,7 +268,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
  
-###Day 1: Enero 1, Monday :full_moon_with_face:
+### Day 1: Enero 1, Monday :full_moon_with_face:
 
 **__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
