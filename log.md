@@ -1,16 +1,16 @@
 # 100 Days Of Code - Log
 
-[//] # (### Day X: Month X, 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘)
+[//]: # ### Day X: Month X, 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘
 
-[//] # **__Progress__**:
+[//]: # **__Progress__**:
 
-**__Reflections__**: 
+[//]: # **__Reflections__**: 
 
-**__Learned__**:
+[//]: # **__Learned__**:
 
-**__Tweaks__**:
+[//]: # **__Tweaks__**:
 
----
+[//]: # ---
 
 :zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. 
 
