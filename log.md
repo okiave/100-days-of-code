@@ -9,34 +9,27 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-### Day 16: Enero 16, Tuesday
+:new_moon_with_face: ### Day 16: Enero 16, Tuesday :new_moon_with_face:
 
 **__Progress__**: Cleaned up indentation and content for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
-**__Reflections__**: Over the last two days I've finally begun to see the level of progress that reflects what I've learned from FCC in the first 100 sessions. Mainly the various  bootstrap classes that are available. I can tell that learning to position elements before bootstrap has me tending to want to fix things with inline style tweaks. My goal is to avoid this and understand how to translate my vision into bootstrap speak for layout, grid and positioning. With responsiveness being key these days there's really no point if it just works for one screen size.
+**__Reflections__**: Over the last two days I've finally begun to see the level of progress that reflects what I've learned from FCC in the first 100 sessions. Mainly the various  bootstrap classes that are available. I can tell that learning to position elements before bootstrap has me tending to want to fix things with inline style tweaks. My goal is to avoid this and understand how to translate my vision into bootstrap speak for layout, grid and positioning. With responsiveness being key these days there's really no point if it just works for one screen size. Also I'm noticing updating this log daily is the hardest aspect of my current #100daysofcode journey.
 
 **__Learned__**: 
 
 1. bootstrap `class="row align-middle justify-content-center"`
 
-    In my quest to resolve why some of my div elements were'nt cooperating, I came across the concept of [vertical](https://getbootstrap.com/docs/4.0/layout/grid/#vertical-alignment) and [horizontal](https://getbootstrap.com/docs/4.0/layout/grid/#horizontal-alignment) alignment with bootstrap.  
-    
-2. addressing all users of parallax
-
-  As I explored the web for various projects in parallax it was cool to fine [this one](http://pixelcog.github.io/parallax.js/) that was comprehensive and documented with info on how to address devices that won't render the effect.      
-    
+    In my quest to resolve why some of my div elements were'nt cooperating, I came across the concept of [vertical](https://getbootstrap.com/docs/4.0/layout/grid/#vertical-alignment) and [horizontal](https://getbootstrap.com/docs/4.0/layout/grid/#horizontal-alignment) alignment layout using bootstrap.  
     
 **__Tweaks__**:
 
-* Must get more than 5 hours of sleep. I feel drunk running on anything less than that.
+* Spend more time using search feature within boostrap documentation 
 
-* Generating leads for revenue must be a priority.
-
-* Simple yummy meal planning for next week.
+* Let's start to audio capture what I'm learning as I go so i can update log as I go with memory throughout the 90min session.
 
 ---
 
-### Day 12: Enero 12, Tuesday
+:last_quarter_with_face: ### Day 12: Enero 12, Tuesday :last_quarter_with_face:
 
 **__Progress__**: Started hand coding the main parts of a parallax tribute page for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
@@ -63,7 +56,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-### Day 9: Enero 9, Tuesday
+:last_quarter_with_face: ### Day 9: Enero 9, Tuesday :last_quarter_with_face:
 
 **__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
 
