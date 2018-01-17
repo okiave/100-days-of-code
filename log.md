@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day X: Month X, 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘
+
+**__Progress__**:
+
+**__Reflections__**: 
+
+**__Learned__**:
+
+---
 
 :zap:**Disclaimer**:zap:: I will be using spanish here and there throughout  my log and im sure in the printed side of my projects. Helps keep my mental state of flow. Chido. Empezemos. 
 
@@ -56,6 +65,16 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
+### Day 11: Enero 11, 🌘
+
+**__Progress__**:
+
+**__Reflections__**: 
+
+**__Learned__**:
+
+---
+
 ### Day 9: Enero 9, 🌗
 
 **__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
@@ -88,7 +107,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 **__Learned__**: 
 
-1. $("document").ready(function()) {} );
+1. `$("document").ready(function()) {} );`
 
     The $ at the start of the statement can be read as bling. Additional statements are put between the curly brackets {} and end with a semi-colon. Its also possible to combine multiple selectors together.
     
@@ -99,7 +118,6 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
 ---
-
 
 ### Day 7: Enero 7, Sunday 🌗
 
