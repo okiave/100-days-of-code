@@ -15,9 +15,9 @@
 :zap:**Disclaimer**:zap:: I'm using the above format and a mix of spanish/english throughout my log to support my mental state of flow. I use moon emojis to track my energy. Chido. Empezemos. 
 
 **Day 1/100** started on 1st day of 2018. All hours are in AKST (Alaska!!)
-A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes. She is a scientist so we logged our progress and found our endurance and distance traveled seemed to correlate with the phases of the moon. Since then I've tested what we learned and began exploring the relationship between lunar energy within a framework of mindfulness practices and cognitive behavioral tweaks.  because I'm am a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity/restoration.
+I see this **#100daysofcode** journey like biketour my sister and I did a few years ago.[Living nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes forced us to log our progress and we found our endurance and stamina seemed to correlate with the phases of the moon. Over the years I've tested what we learned and began exploring how the relationship between lunar energy might work within a framework of mindfulness practices and cognitive behavioral tweaks. I'm am a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity/restoration.
 
-**TL;DR**: Tracking moon informs me for how to adapt with stress and challenges on a journey. 
+**TL;DR**: Tracking the moon helps me understand how to adapt to stress and challenges on a journey. 
 
 ---
 
