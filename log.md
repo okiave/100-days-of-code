@@ -29,7 +29,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-### Day 12: Enero 12, Tuesday :waning_crescent_moon:  
+### Day 12: Enero 12, Tuesday 🌘  
 
 **__Progress__**: Started hand coding the main parts of a parallax tribute page for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
@@ -56,7 +56,7 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 ---
 
-### Day 9: Enero 9, Tuesday :last_quarter_moon_with_face:
+### Day 9: Enero 9, 🌗
 
 **__Progress__**: After completing the last three challenges of JQuery I'm starting my [first project](https://github.com/okiave/100-days-of-code/blob/master/projects/tribute-page.html) which is to build a tribute page using codepen on Alistair Cockburn.
 
@@ -80,7 +80,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ---
 
-### Day 8: Enero 8, Monday :last_quarter_moon:
+### Day 8: Enero 8, Monday 🌗
 
 **__Progress__**: Challenges 94-107 on Freecodecamp today were all about using CSS selectors to modify and remove html elements. JQuery can select elements in similar ways as CSS, it also has the ability control elements through parental or child positions.
 
@@ -101,7 +101,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 7: Enero 7, Sunday 🌜:last_quarter_moon_with_face:
+### Day 7: Enero 7, Sunday 🌗
 
 **__Progress__**: Completed challenges 81-93 on Freecodecamp, got super into Bootstrap and am now officially entered JQuery waters.
 
@@ -123,7 +123,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 6: Enero 6, Saturday :wanning_gibbious_moon:
+### Day 6: Enero 6, Saturday 🌖 
 
 **__Progress__**: Completed challenges 25-80 on Freecodecamp on HTML and Bootstrap. 
 
@@ -144,7 +144,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 ---
 
-### Day 5: Enero 5, Friday :wanning_gibbious_moon:
+### Day 5: Enero 5, Friday 🌖 
 
 **__Progress__**: Tweaked my github pages repo. 
 
@@ -167,7 +167,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 4: Enero 4, Thursday :wanning_gibbious_moon:
+### Day 4: Enero 4, Thursday 🌖 
 
 **__Progress__**: Created my github pages repo for publishing better updates. Learned about DOM, JSON structure and jQuery.
 
@@ -199,7 +199,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
 
-### Day 3: Enero 3, Wednesday :full_moon_with_face:
+### Day 3: Enero 3, Wednesday 🌝
 
 **__Progress__**: Mongodb running in AWS cloud9 and Git repo back in sync 
 
@@ -232,7 +232,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 ---
 
 
-### Day 2: Enero 2, Tuesday :full_moon_with_face:
+### Day 2: Enero 2, Tuesday 🌝
 
 **__Progress__**: Plowed through the freecodecamp.org (FCC) html/css challenges. Could not figure out how to install mongodb on AWS cloud9 so I jumped into local machine and am setting it up through brew.
 
@@ -268,7 +268,7 @@ When the dad was teaching his son about POJOs (Plain 'ol javascript object) also
 
 
  
-### Day 1: Enero 1, Monday :full_moon_with_face:
+### Day 1: Enero 1, Monday 🌝
 
 **__Progress__**: Forked and pulled 100daysofcode project via terminal.
 Updated and set intention for log via vim all the while utilizing what I've learned in my last weeks of typing practice..
