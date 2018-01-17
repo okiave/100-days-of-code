@@ -13,13 +13,13 @@ A few years ago my sister and I [lived nomadically ](http://avephoto.com/stories
 
 **__Progress__**: Cleaned up indentation and content for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
 
-**__Reflections__**: Over the last two days I've finally begun to see the level of progress that reflects what I've learned from FCC in the first 100 sessions. Mainly the various  bootstrap classes that are available. I can tell that learning to position elements before bootstrap has me tending to want to fix things with inline style tweaks. My goal is to avoid this and truly understand the grid and positioning options of bootstrap.
+**__Reflections__**: Over the last two days I've finally begun to see the level of progress that reflects what I've learned from FCC in the first 100 sessions. Mainly the various  bootstrap classes that are available. I can tell that learning to position elements before bootstrap has me tending to want to fix things with inline style tweaks. My goal is to avoid this and understand how to translate my vision into bootstrap speak for layout, grid and positioning. With responsiveness being key these days there's really no point if it just works for one screen size.
 
 **__Learned__**: 
 
-1. bootstrap `class="row align-items-center justify-content-center"`
+1. bootstrap `class="row align-middle justify-content-center"`
 
-    After researching a number of approaches to parallax, I've settled on working with the core [codebase of bootstrap](https://github.com/okiave/bootstrap) and have since cloned it to my local machine for future use. As small as this sounds I can't explain how much more efficient is to now just pull new updates for the framework.  
+    In my quest to resolve why some of my div elements were'nt cooperating, I came across the concept of [vertical](https://getbootstrap.com/docs/4.0/layout/grid/#vertical-alignment) and [horizontal](https://getbootstrap.com/docs/4.0/layout/grid/#horizontal-alignment) alignment with bootstrap.  
     
 2. addressing all users of parallax
 
