@@ -20,6 +20,28 @@
 
 ---
 
+### Day 17: Enero 17, Wednesday 🌚
+
+**__Progress__**: Today was monunmental for me. I was able to correctly use bootstraps' gird and layout system. I know have a responsive tribute page with both paralax and the hero image I wanted.
+
+
+**__Reflections__**: Today I decided to code after a full day of focused work and visiting with my family from afar via facetime. That decision gave me the peace of mind to feel I had progress in my business and family life so I could focus on learning. I also did a mix of roller skate intermissions down at the warehouse through out my documentation reading. This helped me create condition of not roller skatig till i had understood a section. In the beginning this felt daunting because I kept right clicking on links to understand terminology and the context. I'm glad I did or today's result would not have been as rewarding. In the end it was about 45min of reading to 30min of cleaning up code with about five sessions of sakting totaling 20mins.  
+**__Learned__**:
+
+1. Undoing with git reset 
+
+    Took the time to read and understand the various methods to [undo in git](https://www.atlassian.com/git/tutorials/undoing-changes)
+
+2. Flexbox is my friend
+    
+    No more positioning elements with inline css like I used to. I've come to understand boostrap's power by with a little reading [felxbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+
+**__Tweaks__**: 
+
+1. Clean up house in AM so I can study and cook in PM.
+
+---
+
 ### Day 16: Enero 16, Tuesday :new_moon_with_face:
 
 **__Progress__**: Cleaned up indentation and content for [Alistair Cockburn](https://github.com/okiave/100-days-of-code/blob/master/projects/paralax/index.html).
