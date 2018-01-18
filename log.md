@@ -77,7 +77,11 @@
 
 1. The practice of Design Thinking
   
+<<<<<<< HEAD
   When I decided to make a tribute page on Alistair I did so bc I saw that Agile as a process also related to [design thinking](https://www.youtube.com/watch?v=TPXrheqhTCs&index=1&t=15s&list=PLmayTjecwZXO8lt_sr4FRUu-n0BzD_y9C). This is the kinda info that makes my day because I feel I live in world of institutional thinking and I'm starved for more connection to others who think adaptivley and collabortively.
+=======
+  When I decided to make a tribute page on Alistair I did so bc I saw that Agile as a process also related to [design thinking](https://www.youtube.com/watch?v=TPXrheqhTCs&index=1&t=15s&list=PLmayTjecwZXO8lt_sr4FRUu-n0BzD_y9C). This is the kinda info that makes my day because I feel I live in world of institutional thinking and I'm starved for more connection to others who think adaptivley.
+>>>>>>> bdc566958016cdfb3d46c016777be5c71ff5960b
 
 ---
 
