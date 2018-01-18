@@ -22,8 +22,7 @@
 
 ### Day 17: Enero 17, Wednesday 🌚
 
-**__Progress__**: Today was monunmental for me. I was able to correctly use bootstraps' gird and layout system. I know have a responsive tribute page with both paralax and the hero image I wanted.
-
+**__Progress__**: Today was monunmental for me. I was able to correctly use bootstraps' gird and layout system. I now have a responsive tribute page with both paralax and the hero image I wanted. Now to finalize last third of content to satisfy the two user story requirements.
 
 **__Reflections__**: Today I decided to code after a full day of focused work and visiting with my family from afar via facetime. That decision gave me the peace of mind to feel I had progress in my business and family life so I could focus on learning. I also did a mix of roller skate intermissions down at the warehouse through out my documentation reading. This helped me create condition of not roller skatig till i had understood a section. In the beginning this felt daunting because I kept right clicking on links to understand terminology and the context. I'm glad I did or today's result would not have been as rewarding. In the end it was about 45min of reading to 30min of cleaning up code with about five sessions of sakting totaling 20mins.  
 **__Learned__**:
