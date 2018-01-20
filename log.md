@@ -20,6 +20,30 @@
 
 ---
 
+### Day 19: Enero 19, 🌒
+
+**__Progress__**: I'm updating my log on my honest thoughts about whether trying to make the tribute page about content perfect and how that's setting me back.
+
+**__Reflections__**: Another week has come to an end and I can honestly say I'm both proud of my progress and concerned. First off, I proud of the fact that I took the time to learn from reading documentation pages. That's not my favorite way to learn and it doesn't give me the same dopamine rush as searching and watching a video. I'm glad I can articulate that here because it will serve as a reminder that doing what's easy doesn't always make for growth or comprehension. Item two that's on my mind is I think my perfectionism is getting in the way of completing this first project which means that I'm holding myself back. The perfectionism doesn't have to do with the design but rather the nature of the content. I kinda want to make a page that clarifies what Agile is and isn't because I can tell it brings me more value that creating a timeline of Alistair's life. At the same though, I really want to move along and get on to the next project. The conclusion here is that what I'll do is make a simple bulleted list of what Agile is and is not. 
+
+**__Learned__**:
+
+1. Mixing learning styles
+  
+    I never realized how the thinking my preffered learning style of audio/visual could be a detrement to this code journey. After all, new libraries and frameworks are documented so required readinf is gonna be necessary.
+
+2. Perfect is unatainable
+
+    My journey to making the last part of the content page began stagnating because I lost sight of the basic user story. I wanted to get more in depth as way to understand how Agile and other methods for productivity work together. That's too much. I need to keep it simple, and I can always provide links to more in depth reading. 
+
+**__Tweaks__**:
+
+* Less youtube learning more documentaiton exploring
+
+2.
+
+[//]: # ---
+
 ### Day 17: Enero 17, Wednesday 🌚
 
 **__Progress__**: Today was monunmental for me. I was able to correctly use bootstraps' gird and layout system. I know have a responsive tribute page with both paralax and the hero image I wanted.
