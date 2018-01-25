@@ -1,16 +1,5 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log { 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘 }
 
-[//]: # ### Day X: Month X, 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘
-
-[//]: # **__Progress__**:
-
-[//]: # **__Reflections__**: 
-
-[//]: # **__Learned__**:
-
-[//]: # **__Tweaks__**:
-
-[//]: # ---
 
 :zap:**Disclaimer**:zap:: I'm using the above format and a mix of spanish/english throughout my log to support my mental state of flow. I use moon emojis to track my energy. All hours are in AKST (Alaska!!). Chido. Empezemos. 
 
@@ -20,19 +9,21 @@
 
 ---
 
-# 100 Days Of Code - Log
-
 ### Day 24: Enero 2018, 🌓
 
-**__Progress__**: Today I completed the one page [tribute project on Alistair Cockburn](okiave.github.io/fcc-projects/tribute-page/).   
+**__Progress__**: Today I completed the one page [tribute project on Alistair Cockburn](okiave.github.io).   
 
-**__Reflections__**: 
+**__Reflections__**: The journey to completing this project has taught me a lot about myself. For one, my tendency to obsess over perfection can really derail progress. A natural antidote seems to be staying curious by finding simple joy in the process.  
 
-**__Learned__**:
+**__Learned__**: 
 
-**__Tweaks__**:
+1. If code for at least 30min by 1pm, the odds of completing a full 90min sesh and updating the log is much more likely.
 
+2. Reading documentation on libraries is really awesome and requires it's own dedidcated time for the session. Googling random out of date answers in forums only goes so far.
 
+**__Tweaks__**: 
+
+1. The next project i will start with a sketch mockup and rough layout with core html elements.
 
 ---
 
@@ -391,4 +382,17 @@ Updated and set intention for log via vim all the while utilizing what I've lear
 ### Day 0: Last half of Dec 2017
 **__Reflections__**: Working on typing skills. Really should have taken that 7th grade class seriously. Thats ok im a fast learner and I've got the top row and middle row better mapped out. I even feel like Nikon from hackers every once in an while. ha! Def gonna keep up with awareness to the when find pecking and looking down come up.
 
-	
+
+---
+
+[//]: # ### Day X: Month X, 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘
+
+[//]: # **__Progress__**:
+
+[//]: # **__Reflections__**: 
+
+[//]: # **__Learned__**:
+
+[//]: # **__Tweaks__**:
+
+[//]: # ---
