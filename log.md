@@ -20,6 +20,22 @@
 
 ---
 
+# 100 Days Of Code - Log
+
+### Day 24: Enero 2018, 🌓
+
+**__Progress__**: Today I completed the one page [tribute project on Alistair Cockburn](okiave.github.io/fcc-projects/tribute-page/).   
+
+**__Reflections__**: 
+
+**__Learned__**:
+
+**__Tweaks__**:
+
+
+
+---
+
 ### Day 19: Enero 19, 🌒
 
 **__Progress__**: I'm updating my log on my honest thoughts about whether trying to make the tribute page about content perfect and how that's setting me back.
