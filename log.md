@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log { 🌚🌒🌛🌓🌔🌝🌖🌗🌜🌘 }
 
 
-:zap:**Disclaimer**:zap:: I'm using the above format and a mix of spanish/english throughout my log to support my mental state of flow. I use moon emojis to track my energy. All hours are in AKST (Alaska!!). Chido. Empezemos. 
+:zap:**Disclaimer**:zap:: I'm using a mix of spanish/english throughout my log to support my mental state of flow. I use moon emojis to track my energy. All hours are in AKST (Alaska!!). Chido. Empezemos. 
 
 **Day 1/100** of the **#100daysofcode** started on 1st day of 2018. I see this journey like the biketour my sister and I did in 2010. [Living nomadically ](http://avephoto.com/stories/#/south-of-here-1/) on a bikes forced us to log our progress and journal. What we discovered was that our endurance and stamina seemed to correlate with the phases of the moon. Over the years I began exploring how the relationship between lunar energy might work within a framework of mindfulness practices and cognitive behavioral tweaks. I'm a firm believer that the gravitational pull exerted on earth by the moon can be used as a leverage for productivity and restoration.
 
-**TL;DR**: Tracking the moon helps me understand how to adapt to stress and challenges on a journey. 
+**TL;DR**: Tracking the moon helps me understand how to adapt to stress and challenges while on a journey. 
 
 ---
 
@@ -17,7 +17,7 @@
 
 This year I'm starting a new venture with a few long time friends/collaborators, I'm just about done finalizing the dissolution of my marriage after separating in late 2016, and my son and daughter at a critical age being present with them matters to forming our longterm relationship. Does this list sound like excuses? Yes, absolutley if you consider the established rules of 100daysofcode. 
 
-However, for me the purpose of 100daysofcode was about setting off on a longterm stationary journey to build upon my existing content and code knowledge; all the while explore how else I can generate revenue from the internet. I'm calling January complete and the month of Bootstrap. With this new knowledge I've already found the opportunity and invitation to contribute tidying up user interfaces. I also have the confidence to go out and offer making static websites responsive.  
+However, for me the purpose of 100daysofcode was about setting off on a longterm stationary journey to build upon my existing content and code knowledge; all the while explore how else I can generate revenue from the internet. I'm calling January complete and the month of Bootstrap. With this new knowledge I've already found an opportunity to [contribute tidying up UX/UI](https://github.com/okiave/alterium). I also got to learn how critical it is to [review code before announcing](https://twitter.com/okiave/status/956364801302700032). Best of all I have the confidence to code static html5/css  websites knowing they will be responsive.  
 
 **__Learned__**:
 1. I have an array of skills that are of value and can be put to use immediatley. My challenge is to market them in way that creates opportunities to step into teams and projects.
@@ -25,7 +25,7 @@ However, for me the purpose of 100daysofcode was about setting off on a longterm
 2. Ever since mid 2017 I've been going deeper into the rabbit hole of blockchain and decentralized networks. Yesterday I came accross this amazing channel and got to see what it was like to push a [simple web app for voting out to the ethereum platform](https://www.youtube.com/watch?v=gSQXq2_j-mw).  
 
 **__Tweaks__**:
-1. Ergonomics ergonomics ergonomics. My body has atrophied since day one due to testing and pushing the limits on late night code sessions. It seems my best option is to work at my standing desk. This makes perfect sense because I've seldomly get back spasims and aches becuase I've tweaked it to fit me like glove for long standing post-processing sessions.
+1. Ergonomics ergonomics ergonomics. My body has atrophied since day one due to testing and pushing the limits on late night code sessions. My neck and upper back have been irregularly getting spasm. It seems the healthiest option is to code at my standing desk. This makes perfect sense because I've seldomly get back issues and aches becuase I've tweaked it to fit me like glove for standing post-production sessions.
 
 ---
 
