@@ -9,6 +9,26 @@
 
 ---
 
+### Day 30: Enero 2018,🌝
+
+**__Progress__**: Added large screen classes to tribute page after getting feedback from a local freecodecamp facebook group. Aggregated the resopurces to start coding my portfolio project.
+
+**__Reflections__**: As my first month of coding in the new year comes to an end, i can see I have found a more natural pace. Coding daily for 90min is doable only when nothing else is happening, which is approximately 2-3 per week depending on how many leads I got going in my business to follow up on. 
+
+This year I'm starting a new venture with a few long time friends/collaborators, I'm just about done finalizing the dissolution of my marriage after separating in late 2016, and my son and daughter at a critical age being present with them matters to forming our longterm relationship. Does this list sound like excuses? Yes, absolutley if you consider the established rules of 100daysofcode. 
+
+However, for me the purpose of 100daysofcode was about setting off on a longterm stationary journey to build upon my existing content and code knowledge; all the while explore how else I can generate revenue from the internet. I'm calling January complete and the month of Bootstrap. With this new knowledge I've already found the opportunity and invitation to contribute tidying up user interfaces. I also have the confidence to go out and offer making static websites responsive.  
+
+**__Learned__**:
+1. I have an array of skills that are of value and can be put to use immediatley. My challenge is to market them in way that creates opportunities to step into teams and projects.
+
+2. Ever since mid 2017 I've been going deeper into the rabbit hole of blockchain and decentralized networks. Yesterday I came accross this amazing channel and got to see what it was like to push a [simple web app for voting out to the ethereum platform](https://www.youtube.com/watch?v=gSQXq2_j-mw).  
+
+**__Tweaks__**:
+1. Ergonomics ergonomics ergonomics. My body has atrophied since day one due to testing and pushing the limits on late night code sessions. It seems my best option is to work at my standing desk. This makes perfect sense because I've seldomly get back spasims and aches becuase I've tweaked it to fit me like glove for long standing post-processing sessions.
+
+---
+
 ### Day 24: Enero 2018, 🌓
 
 **__Progress__**: Today I completed the one page [tribute project on Alistair Cockburn](okiave.github.io).   
